@@ -1,0 +1,30 @@
+{
+  "name": "hw",
+  "version": "0.0.0",
+  "description": "hello world",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phelanm/hw-nodejs"
+  },
+  "keywords": [
+    "nodejs",
+    "with",
+    "heroku"
+  ],
+  "author": "phelanm",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/phelanm/hw-nodejs/issues"
+  },
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.4.5"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
